@@ -1,4 +1,6 @@
-<!DOCTYPE html>
+<template>
+  <div id="app">
+    <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -7,75 +9,14 @@
     <title>Free Book Me In Scotty</title>
 
 
-    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet"> 
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.17.1/font/bootstrap-icons.css" rel="stylesheet"> 
-    <!--load all Font Awesome styles -->
-    <link href="css/all.css" rel="stylesheet">
+    
 
 
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
 
-       <style> 
-
-
-       #main-image
-      {
-        background:url('image2.jpg') top center;
-        background-size: cover;
-        margin-top:0em;
-        padding-top: 20em;
-        padding-bottom:20em;
-        position: relative;
-        color: white;
-        }
-
-        .nav-item {
-          margin-right: 10px; /* Adjust the value according to your preference */
-            }
-
-header {
-     background-size: cover;
-       background-image:url('image2.jpg');
-}
-
-.hidden-spacer {
-    height: 56px
-}
-         
-   #upcoming-events
-   {
-    background:url(image7.jpg);
-    background-size: cover;
-        margin-top:-10em;
-        padding-top: 5em;
-        padding-bottom:5em;
-        position: relative;
-   }
-   #event-category
-    {
-        background:url(image8.jpg);
-        background-size: cover;
-        margin-top:-10em;
-        padding-top: 5em;
-        padding-bottom:5em;
-        position: relative;
-   }
-
-   #business
-    {
-    background:url(image9.jpg);
-    background-size: cover;
-        margin-top:-10em;
-        padding-top: 5em;
-        padding-bottom:5em;
-        position: relative;
-   }
-
-    </style>
-
-</head>
+  </head>
 
 <body>
     <header>
@@ -394,3 +335,86 @@ header {
 
 </body>
 </html>
+
+
+
+
+
+
+
+
+  </div>
+</template>
+
+<script>
+export default {
+  name: 'app',
+  data () {
+    return {
+      msg: 'Welcome to Your Vue.js App'
+    }
+  }
+}
+</script>
+
+<style lang="css">
+
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet"> 
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.17.1/font/bootstrap-icons.css" rel="stylesheet"> 
+    <!--load all Font Awesome styles -->
+    <link href="css/all.css" rel="stylesheet">
+
+
+  #main-image
+      {
+        background:url('image2.jpg') top center;
+        background-size: cover;
+        margin-top:0em;
+        padding-top: 20em;
+        padding-bottom:20em;
+        position: relative;
+        color: white;
+        }
+
+        .nav-item {
+          margin-right: 10px; /* Adjust the value according to your preference */
+            }
+
+header {
+     background-size: cover;
+       background-image:url('image2.jpg');
+}
+
+.hidden-spacer {
+    height: 56px
+}
+         
+   #upcoming-events
+   {
+    background:url(image7.jpg);
+    background-size: cover;
+        margin-top:-10em;
+        padding-top: 5em;
+        padding-bottom:5em;
+        position: relative;
+   }
+   #event-category
+    {
+        background:url(image8.jpg);
+        background-size: cover;
+        margin-top:-10em;
+        padding-top: 5em;
+        padding-bottom:5em;
+        position: relative;
+   }
+
+   #business
+    {
+    background:url(image9.jpg);
+    background-size: cover;
+        margin-top:-10em;
+        padding-top: 5em;
+        padding-bottom:5em;
+        position: relative;
+   }
+</style>
