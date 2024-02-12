@@ -76,10 +76,242 @@
                </div>
               </div>
               </div> 
+ <br>
+ <br>
+ <br>  
+ <div id="upcoming-events" class="jumbotron">
+        <h1 class="text-center">  <i class="fas fa-hourglass-half"></i> Upcoming Events </h1>
+        <br>
+        <br>
+        <div class="container ">  
+        <div class="row ">
+        <div class="col">
+       <div class="card-deck">
+      <div class="card  mb-6 position-relative" >
+      <img src="image4.jpg" class="card-img-top" height="300">
+          <span class="badge badge-dark position-absolute top-0 end-0" style="margin-top: 10px; margin-left:280px;">Upcoming</span>
+          <span class="badge badge-danger position-absolute top-0 end-0" style="margin-top: 29px; margin-left:290px;"> 223days</span>
+         <span class="badge badge-primary mr-auto" style="margin-top:-18px;">Free</span>
+<div class="card-body">
+       <p style="font-size: smaller; color: blue; display: flex; justify-content: left;">
+        <span style="padding-right: 5px;">Oct 1 ,</span>
+        <span style="border-right: 1px solid blue; margin-right :5px ; padding-right: 5px;">2020</span>
+        <span style="padding-right: 5px;">Dec 31 ,</span>
+       <span style="border-right: 1px solid blue;  margin-right :5x ; padding-right: 5px;">2020</span>
+       <span style="padding-right: 5px;">Coomalbidgup</span>
+</p>
+      <h5 class="card-title">Global Marketing Conference</h5>
+      <p class="card-text">Wheelbarrow Well.</p>
+    </div>
+     <div class="card-footer text-center" style="padding:2px;">
+        <p style="margin-top:7px;"> Business&Seminars </p>
+         </div>
+          </div>
+
+  <div class="card mb-7" >
+    <img src="image1.jpg" class="card-img-top" height="300">
+              <span class="badge badge-dark position-absolute top-0 end-0" style="margin-top: 10px; margin-left:280px;">Upcoming</span>
+              <span class="badge badge-danger position-absolute top-0 end-0" style="margin-top: 29px; margin-left:290px;"> 223days</span>
+                <span class="badge badge-primary mr-auto" style="margin-top:-18px;">Free</span>
+
+    <div class="card-body">
+        <p style="font-size: smaller; color:blue; display: flex; justify-content: left;">
+         <span style="padding-right: 5px;">Oct 1 ,</span>    
+         <span style="border-right: 1px solid blue; margin-right :5px ; padding-right: 5px;">2020</span>
+         <span style="padding-right: 5px;"> Dec 31 ,</span>
+         <span style="border-right: 1px solid blue;  margin-right :5x ; padding-right: 5px;">2020</span>
+         <span style="padding-right: 5px;"> Riverview </span>
+</p>
+      <h5 class="card-title">Caribbean Karaoke NIghts </h5>
+        <p class="card-text">Bridgeadale.</p>
+    </div>
+    <div class="card-footer text-center" style="padding:2px;" >
+        <p style="margin-top:7px;">Music & Concerts </p>
+    </div>
+  </div>
+
+  <div class="card mb-8">
+    <img src="image5.jpg" class="card-img-top" height="300">
+              <span class="badge badge-dark position-absolute top-0 end-0" style="margin-top: 10px; margin-left:280px;">Upcoming</span>
+             <span class="badge badge-danger position-absolute top-0 end-0" style="margin-top: 29px; margin-left:290px;"> 223days</span>
+             <span class="badge badge-primary mr-auto" style="margin-top:-18px;">Free</span>
+
+    <div class="card-body">
+        <p style="font-size: smaller; color: blue; display: flex; justify-content: left;">
+        <span style="padding-right: 5px;"> Oct 1 ,</span>
+        <span style="border-right: 1px solid blue; margin-right :5px ; padding-right: 5px;">2020</span>
+        <span style="padding-right: 5px;"> Dec 31 ,</span> 
+        <span style="border-right: 1px solid blue;  margin-right :5x ; padding-right: 5px;">2020</span>
+        <span style="padding-right: 5px;"> Lanzhou </span>
+</p>
+    <h5 class="card-title">VR assistant Workshop</h5>
+    <p class="card-text"> Roller Rink.</p>
+ </div>
+ <div class="card-footer text-center" style="padding:2px;">
+     <p style="margin-top:7px"> Business & Seminars</p>
+ </div>
+</div>
+    </div>
+    </div>
+</div>   
+ <br>
+      <br>
+          <div class="text-center">
+            <a href="#" class="btn btn-danger btn-lg active" role="button" aria-pressed="true"> <i class="fas fa-calendar-day"></i> View All Events </a>
+            </div>
+ </div>
+</div>
+ <br>
+ <br>
+ <br>    
+<div id="event-category" class="jumbotron">
+
+           <h1 class="text-center"> Event Categories </h1>
+           <br>
+           <br>
+                <div class="container">
+  <div class="row">
+    <div class="col-6 col-md-3">
+          <div class="card border-primary mb-3" style="max-height: 8rem;">
+             <div class="card-img" style="background: url('image9.jpg'); background-size: cover; height: 8rem;"></div>
+        <div class="card-body text-white" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 1; display: inline-block;">
+          <h5 class="card-title">Business & Seminars</h5>
+    </div>
+      </div>
+      </div>
+    <div class="col-6 col-md-3">
+      <div class="card border-secondary mb-3" style="max-height: 8rem;">
+        <div class="card-img" style="background: url('image10.jpg'); background-size: cover; height: 8rem;"></div>
+        <div class="card-body text-white" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 1; display: inline-block;">
+          <h5 class="card-title">Sports & Fitness</h5>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-6 col-md-3">
+      <div class="card border-success mb-3" style="max-height: 8rem;">
+         <div class="card-img" style="background: url('image2.jpg'); background-size: cover; height: 8rem;"></div>
+        <div class="card-body text-white" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 1; display: inline-block;">
+          <h5 class="card-title">Music & Concerts</h5>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-6 col-md-3">
+      <div class="card border-danger mb-3" style="max-height: 8rem;">
+      <div class="card-img" style="background: url('image11.jpg'); background-size: cover; height: 8rem;"></div>
+    <div class="card-body text-white" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 1; display: inline-block;">          
+        <h5 class="card-title">Food & Drink</h5>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+ <br>
+ <br>
+ <h6 class="text-center">How-To Host Your Event </h6>
+                   <h1 class="text-center"> Event management life-cycle</h1>
+                   <br>
+                   <br>
+                <div class="d-flex justify-content-center">
+  <ul class="list-group list-group-horizontal-lg justify-content-center list-group-flush">
+    <li class="list-group-item text-center"> 
+      <i class="far fa-calendar-alt fa-6x"></i>
+      <br>
+      <br>
+      <h1>1. Plan the event </h1> 
+      <p>from idea to action plan </p>
+    </li>
+    <li class="list-group-item text-center">  
+      <i class="fas fa-ticket-alt fa-6x"></i> 
+      <br>
+      <br>                       
+      <h1>2. Organize the event  </h1>
+      <p>From action plan to execution </p>
+    </li>
+    <li class="list-group-item text-center">  
+      <i class="fas fa-walking fa-6x"> </i>
+      <br>
+      <br>
+      <h1>3. Promote the event  </h1>
+      <p> Spreading the word and selling tickets</p>
+    </li>
+    <li class="list-group-item text-center"> 
+      <i class="fas fa-photo-video fa-6x"></i>
+      <br>
+      <br>
+      <h1>4. Host the event </h1> 
+      <p> Host your event and collect feedback</p>
+    </li>
+  </ul>
+</div>
+ </main>
+ <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+ <footer class="bg-dark text-center text-white" style="margin-top: -20px; padding-top: 10px;">
+  <div class="container">
+    <table class="table table-borderless table-dark mx-auto" style="max-width: 1200px;">
+        <thead>
+            <tr>
+                <th scope="col"></th> <!-- Moved to the left -->
+                <th scope="col">Useful Links</th>
+                <th scope="col">Contact</th>
+                <th scope="col">Social Connections</th>
+            </tr>
+        </thead>
+        <tbody>
+                <tr>
+                <td class="text-center">
+                <i class="fas  fa-calendar fa-5x " style="vertical-align: top;"></i> 
+                <br>
+                <br>                   
+                <p>Book me in Scotty</p>
+                   <p>Host & Share Events!</p>
+                </td>
+                <td class="text-center">
+                    <p>Events</p>
+                    <p>About</p>
+                    <p>Term & Conditions</p>
+                    <p>Privacy Policy</p>
+                </td>
+                <td class="text-center">
+                    <p style="color: blue;">Send us a Message</p>
+                    <p>
+                        85 Golden Street, Darlinghurst<br>
+                        ERP 2019, United States
+                    </p>
+                    <p><i class="fas fa-envelope"></i> info@bmis.com</p>
+                    <p><i class="fas fa-mobile-alt"></i> 1800-180-0808</p>
+                </td>
+                <td class="text-center">
+                    <p>Find us on social platforms</p>
+                    <a href="#" class="social-icon"><i class="fab fa-facebook fa-2x"></i></a>
+                    <a href="#" class="social-icon"><i class="fab fa-twitter fa-2x"></i></a>
+                    <a href="#" class="social-icon"><i class="fab fa-instagram fa-2x"></i></a>
+                    <a href="#" class="social-icon"><i class="fab fa-linkedin fa-2x"></i></a>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 
+   
 
-    </main>
+ <p class="bg-dark text-center text-white">
+    <span style="color: blue;">&copy;</span> 2020 
+    <span style="color: blue;">BMIS</span>. Product by 
+    <span style="color: blue;">eView Group</span>
+</p>
+
+
+ </footer>
 </body>
 </html>
   </div>
