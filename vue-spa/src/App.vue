@@ -330,6 +330,9 @@ export default {
 
 <style>
 
+
+    
+
  .nav-item {
           margin-right: 10px; /* Adjust the value according to your preference */
             }
